@@ -89,7 +89,6 @@
 			isa = PBXGroup;
 			children = (
 				C3CC36A9221A7200007005BE /* AppDelegate.swift */,
-				C3CC36BE221A7736007005BE /* View */,
 				C3CC36BD221A736D007005BE /* Model */,
 				C3CC36BC221A7361007005BE /* Controller */,
 				C3CC36BB221A7336007005BE /* Assets */,
@@ -127,13 +126,6 @@
 				C30FF669221E7CC800EB08EE /* Udacity Client */,
 			);
 			path = Model;
-			sourceTree = "<group>";
-		};
-		C3CC36BE221A7736007005BE /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
